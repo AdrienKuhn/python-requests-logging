@@ -9,7 +9,7 @@ Inspired from [Simple Python 3 HTTP server for logging all GET and POST requests
 docker run --rm -it \
   -p 127.0.0.1:8080:8080 \
   -e RESPONSE_CODE=200 \
-  python-requests-logging
+  krewh/python-requests-logging
 
 
 curl http://localhost:8080
