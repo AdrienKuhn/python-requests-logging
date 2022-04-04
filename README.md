@@ -1,5 +1,7 @@
 # python-requests-logging
 
+[![CircleCI](https://circleci.com/gh/AdrienKuhn/python-requests-logging/tree/main.svg?style=shield&circle-token=695dcbd35642264c96679f5e545bd7cc915158bd)](https://circleci.com/gh/AdrienKuhn/python-requests-logging/tree/main)
+
 Very simple HTTP server in python for logging requests.  
 Inspired from [Simple Python 3 HTTP server for logging all GET and POST requests](https://gist.github.com/mdonkers/63e115cc0c79b4f6b8b3a6b797e485c7).
 
