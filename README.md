@@ -5,6 +5,13 @@ Inspired from [Simple Python 3 HTTP server for logging all GET and POST requests
 
 ## Usage
 
+### Docker images
+
+Multi-arch docker images are available on [Docker Hub](https://hub.docker.com/r/krewh/python-requests-logging):
+
+* The `latest` tag is built from the main branch.  
+* The `latest` tag and the last release tag are refreshed nightly to get the latest security updates.
+
 ```bash
 docker run --rm -it \
   -p 127.0.0.1:8080:8080 \
